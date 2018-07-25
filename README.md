@@ -1,7 +1,7 @@
 # hastalaVistaCFmodeling
 
   
-In the paper [Connective field modeling](http://www.ncbi.nlm.nih.gov/pubmed/23110879) Koen Haak introduces a modeling based approach to analyze cortico-cortical functional connectivity between retinotopic cortices. 
+In the paper [Connective field modeling](http://www.ncbi.nlm.nih.gov/pubmed/23110879) Koen Haak introduces a new method to analyze cortico-cortical functional connectivity between retinotopic cortices. 
 
 hastalavistaCF is a short tutorial (based in [vistatools](http://white.stanford.edu/newlm/index.php/MrVista)) that shows how to compute and visualize connective field models using resting state fMRI data. It works with almost any version of vistatools and Matlab.
 
