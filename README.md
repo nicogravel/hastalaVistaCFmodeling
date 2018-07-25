@@ -2,7 +2,7 @@
 
 ![computer rat](http://www.animatedimages.org/data/media/56/animated-computer-image-0016.gif)
   
-In the paper, [*Connective field modeling*](http://www.ncbi.nlm.nih.gov/pubmed/23110879), Koen Haak introduces a novel method to analyze cortico-cortical functional connectivity between retinotopic cortices. Here I show how to implement the code in [mrVista](http://white.stanford.edu/newlm/index.php/MrVista) and compute connective field (CF) models in Matlab.
+In the paper [*Connective field modeling*](http://www.ncbi.nlm.nih.gov/pubmed/23110879) Koen Haak introduces a novel method to analyze cortico-cortical functional connectivity between retinotopic cortices. Here I show how to implement the code in [mrVista](http://white.stanford.edu/newlm/index.php/MrVista) and compute connective field (CF) models in Matlab.
 
 hastalavistaCF is a short tutorial showing how to compute connective fields from resting state fMRI data in a transparent and straightforward way. Please feel free to modify, comment, extend and/or give feedback. 
 
