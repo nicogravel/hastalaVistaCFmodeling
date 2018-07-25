@@ -16,8 +16,9 @@ https://www.frontiersin.org/articles/10.3389/fnins.2014.00339/full
 Here a link with a [*minimum working example*](https://drive.google.com/drive/folders/1zI58dCh4KGFACPpYfNOeFDdFD_OZ_Qpv?usp=sharing).
 
 
-University Medical Center Groningen, Department of Experimental Ophthalmology, NeuroImaging Center 
-E. n.g.gravel.araneda@rug.nl
-   
+University Medical Center Groningen, Department of Experimental Ophthalmology, NeuroImaging Center.
+  
+n.g.gravel.araneda@rug.nl
+  
 Please cite XX if you use this in your work.
   
